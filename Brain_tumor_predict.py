@@ -4,9 +4,9 @@ import numpy as np
 import time
 import imutils
 import os
-os.environ['CUDA_VISIBLE_DEVICES'] = ''
-import tensorflow.keras as keras
-from tensorflow.keras.optimizers import Adam
+import keras
+from keras.optimizers import Adam
+
 
 #PageConfig
 #page_config = importar_config()
