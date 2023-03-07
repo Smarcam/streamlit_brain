@@ -57,7 +57,7 @@ else:
         # Carga el modelo previamente entrenado
         with st.spinner('Cargando modelo...'):
             time.sleep(1)
-            keras_model = keras.models.load_model('89.h5')
+            keras_model = keras.models.load_model('Brain_model_2.4.h5')
 
             keras_model.compile(optimizer=Adam(learning_rate=1e-4),
                             loss='categorical_crossentropy',
