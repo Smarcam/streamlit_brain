@@ -5,10 +5,9 @@ import time
 import imutils
 from tensorflow import keras
 from tensorflow.keras.optimizers import Adam
-from functions import *
 
 #PageConfig
-page_config = importar_config()
+#page_config = importar_config()
 
 st.markdown("<h1 style='text-align: center; color: black;'>Predicción de Tumores Cerebrales</h1>", unsafe_allow_html=True)
 st.markdown("<h2 style='text-align: center; color: black;'>Proyecto Deep Learning</h2>", unsafe_allow_html=True)
