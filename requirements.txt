@@ -6,7 +6,7 @@ numpy
 snscrape
 nltk
 imutils
-tensorflow
+tensorflow==2.6.0
 opencv-python-headless
 protobuf==3.20
 hydralit_components
