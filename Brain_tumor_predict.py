@@ -4,6 +4,7 @@ import numpy as np
 import time
 import imutils
 import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 import keras
 from keras.optimizers import Adam
 
