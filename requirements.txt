@@ -1,0 +1,15 @@
+pandas
+scikit-learn
+streamlit
+st_pages
+numpy
+snscrape
+nltk
+imutils
+tensorflow
+tensorflow-cpu
+opencv-python-headless
+protobuf==3.20
+hydralit_components
+datetime
+googlesearch-python
