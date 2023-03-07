@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 import time
 import imutils
-from tensorflow import keras
+import tensorflow.keras as keras
 from tensorflow.keras.optimizers import Adam
 
 #PageConfig
